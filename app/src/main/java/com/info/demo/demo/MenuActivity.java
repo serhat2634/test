@@ -15,7 +15,7 @@ import android.view.MenuItem;
 
 public class MenuActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
-//hello madafaka
+//hello madafaka testttttt
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
